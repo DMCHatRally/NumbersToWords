@@ -1,5 +1,5 @@
 # NumbersToWords
-Program translating numbers to word representation
+Program translating numbers to word representation \n
 YOU NEED TO HAVE PYTHON 3 INSTALLED!
 Launch the program by typing: python numberstowords.py 
 follow the prompts
